@@ -28,6 +28,8 @@ CS108 Introduction to Mathematical Logic (H), SUSTech, China (2023.2 - 2023.6)
 
 ### $\color{blue} {\text{Awards and Honors}}$
 
+**Excellent Student Teaching Assistant**, Fall semester 2023, CSE, SUSTech (2024.1)
+
 **First Prize**, National University Mathematical Contest in Modeling, Chinese Society of Industry and Applied Mathematics (CSIAM) (2022.10) 
 
 ### $\color{blue} {\text{Skills}}$
