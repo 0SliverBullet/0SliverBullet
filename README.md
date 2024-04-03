@@ -6,7 +6,7 @@
 
 ### $\color{blue} {\text{Recent Research Interests}}$ 
 
-🕹️**Combinatorial Optimization**: vehicle routing problem
+🕹️**Combinatorial Optimization**: electric vehicle routing problem
 
 ### $\color{blue} {\text{Work Experiences}}$
 
