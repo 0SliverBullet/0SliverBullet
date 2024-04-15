@@ -34,7 +34,7 @@ CS108 Introduction to Mathematical Logic (H), SUSTech, China (2023.2 - 2023.6)
 
 ### $\color{blue} {\text{Skills}}$
 
-Programming: Python, C/C++, Java, LATEX.
+Programming: Python, C/C++, Java, LATEX, CPLEX.
 
 Languages: Chinese, native speaker.
 
@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱Currently working on ... Lab, supervised by ...
 - 🕹️Course list: 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0SliverBullet
+- 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0SliverBullet
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
