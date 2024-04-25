@@ -4,6 +4,8 @@
 
 🎓**Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
 
+Thesis supervisor: Professor [Pietro Simone Oliveto](https://faculty.sustech.edu.cn/olivetop)
+
 ### $\color{blue} {\text{Recent Research Interests}}$ 
 
 🕹️**Combinatorial Optimization**: electric vehicle routing problem
