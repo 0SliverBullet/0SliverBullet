@@ -1,10 +1,6 @@
 ### Hi this is ZHENG Zubin.
 
-### $\color{blue} {\text{Education}}$ 
 
-🎓**Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
-
-Thesis supervisor: Professor [Pietro Simone Oliveto](https://peteroliveto.github.io/)
 
 ### $\color{blue} {\text{Recent Research Interests}}$ 
 
@@ -17,6 +13,29 @@ Thesis supervisor: Professor [Pietro Simone Oliveto](https://peteroliveto.github
 Occupation: Research Officer (Statistical)
 
 Project supervisor: Senior Scientist [Liu Shengcai](https://senshinel.github.io/) 
+
+
+
+### $\color{blue} {\text{Skills}}$
+
+Programming: Python, C/C++, Java, LATEX, CPLEX.
+
+Languages: Chinese, native speaker.
+
+### $\color{blue} {\text{Contact information}}$
+
+📫Contact me: zhengzb2021@mail.sustech.edu.cn
+
+<!--
+**0SliverBullet/0SliverBullet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### $\color{blue} {\text{Education}}$ 
+
+🎓**Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
+
+Thesis supervisor: Professor [Pietro Simone Oliveto](https://peteroliveto.github.io/)
+
 
 ### $\color{blue} {\text{Professional Service}}$
 
@@ -33,19 +52,6 @@ CS108 Introduction to Mathematical Logic (H), SUSTech, China (2023.2 - 2023.6)
 **Excellent Student Teaching Assistant**, Fall semester 2023, CSE, SUSTech (2024.1)
 
 **First Prize**, National University Mathematical Contest in Modeling, Chinese Society of Industry and Applied Mathematics (CSIAM) (2022.10) 
-
-### $\color{blue} {\text{Skills}}$
-
-Programming: Python, C/C++, Java, LATEX, CPLEX.
-
-Languages: Chinese, native speaker.
-
-### $\color{blue} {\text{Contact information}}$
-
-📫Contact me: zhengzb2021@mail.sustech.edu.cn
-
-<!--
-**0SliverBullet/0SliverBullet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
