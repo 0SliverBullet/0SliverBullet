@@ -1,6 +1,8 @@
 ### Hi this is ZHENG Zubin.
 
+### $\color{blue} {\text{Education}}$ 
 
+🎓**Junior student in Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
 
 ### $\color{blue} {\text{Recent Research Interests}}$ 
 
@@ -29,10 +31,6 @@ Languages: Chinese, native speaker.
 <!--
 **0SliverBullet/0SliverBullet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-### $\color{blue} {\text{Education}}$ 
-
-🎓**Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
 
 Thesis supervisor: Professor [Pietro Simone Oliveto](https://peteroliveto.github.io/)
 
