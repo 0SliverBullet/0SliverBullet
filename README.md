@@ -2,7 +2,7 @@
 
 ### $\color{blue} {\text{Education}}$ 
 
-🎓**Junior student in Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
+🎓**Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
 
 ### $\color{blue} {\text{Recent Research Interests}}$ 
 
@@ -15,7 +15,6 @@
 Occupation: Research Officer (Statistical)
 
 Project supervisor: Senior Scientist [Liu Shengcai](https://senshinel.github.io/) 
-
 
 
 ### $\color{blue} {\text{Skills}}$
