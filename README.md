@@ -1,5 +1,6 @@
-### Hi this is ZHENG Zubin.
+### Hi this is Zubin Zheng.
 
+<!--
 ### $\color{blue} {\text{Education}}$ 
 
 🎓**Turing Class, [CSE](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), China** (2021.8 - 2025.7)
@@ -27,7 +28,6 @@ Languages: Chinese, native speaker.
 
 📫Contact me: zhengzb2021@mail.sustech.edu.cn
 
-<!--
 **0SliverBullet/0SliverBullet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -67,9 +67,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0SliverBullet)](https://github.com/anuraghazra/github-readme-stats)
 
--->
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0SliverBullet&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=0SliverBullet&color=green)
+
+-->
